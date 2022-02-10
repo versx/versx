@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm versx.
+I'm versx, I like to code.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=versx&layout=compact&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![Github stats](https://github-readme-stats.vercel.app/api?username=versx&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
