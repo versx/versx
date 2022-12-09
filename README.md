@@ -2,10 +2,8 @@
 
 I'm versx, I like to code.
 
-![Metrics](https://metrics.lecoq.io/username)
+![Metrics](https://raw.githubusercontent.com/versx/versx/main/github-metrics.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=versx&layout=compact&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![Github stats](https://github-readme-stats.vercel.app/api?username=versx&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)  
 [![versx's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=versx&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 
