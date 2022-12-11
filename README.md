@@ -7,6 +7,25 @@ I'm versx, I like to code.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)  
 [![versx's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=versx&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 
+
+**Languages:**  
+[![My Languages](https://skillicons.dev/icons?i=bash,c,cs,cpp,html,js,nodejs,ts,php,swift&perline=5)](https://skillicons.dev)  
+
+**Skills:**  
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,cloudflare,discord,bots,docker,dotnet,express,git,github,gitlab,grafana,react&perline=5)](https://skillicons.dev)  
+
+**Internet of Things:**  
+[![My Languages](https://skillicons.dev/icons?i=arduino,raspberrypi&perline=10)](https://skillicons.dev)  
+
+**Integrated Development Environments:**  
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,unity&perline=10)](https://skillicons.dev)  
+
+**Storage:**  
+[![My Skills](https://skillicons.dev/icons?i=mysql,redis,sqlite&perline=10)](https://skillicons.dev)  
+
+
+
+
 <!--
 **versx/versx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
