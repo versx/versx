@@ -214,20 +214,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 38.1mb of code in 8474 edited files across 1427 commits</small>
+                <small>estimation from 38.1mb of code in 8496 edited files across 1439 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="277.7230580553816" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="277.7230580553816" y="0" width="66.2726301401931" height="8" fill="#438eff"/>
-                    <rect mask="url(#languages-bar)" x="343.99568819557476" y="0" width="31.780948818134537" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="375.77663701370926" y="0" width="26.176410511489" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="401.9530475251983" y="0" width="24.332192963367188" height="8" fill="#724b3b"/>
-                    <rect mask="url(#languages-bar)" x="426.2852404885655" y="0" width="11.540048183882414" height="8" fill="#6866fb"/>
-                    <rect mask="url(#languages-bar)" x="437.82528867244787" y="0" width="11.441913217685617" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="449.2672018901335" y="0" width="10.732798109866513" height="8" fill="#1d365d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="277.30789659180624" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="277.30789659180624" y="0" width="66.17356079277685" height="8" fill="#438eff"/>
+                    <rect mask="url(#languages-bar)" x="343.48145738458305" y="0" width="32.421083091695955" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="375.90254047627906" y="0" width="26.137280030299593" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="402.0398205065786" y="0" width="24.295819358260708" height="8" fill="#724b3b"/>
+                    <rect mask="url(#languages-bar)" x="426.3356398648393" y="0" width="11.522797245745345" height="8" fill="#6866fb"/>
+                    <rect mask="url(#languages-bar)" x="437.8584371105847" y="0" width="11.424808979129343" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="449.28324608971405" y="0" width="10.716753910285998" height="8" fill="#1d365d"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2052,7 +2052,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 811k out of 368m repositories</span>
+                                    <span class="gh">ranked 812k out of 368m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 26 stars</div>
                             </div>
@@ -2277,7 +2277,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Jan 2023, 03:06:25 (timezone America/Los_Angeles) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 19 Jan 2023, 04:08:44 (timezone America/Los_Angeles) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
