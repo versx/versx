@@ -2201,7 +2201,7 @@
                         </div>
                         <div class="goal-text">
                             <span>10 sponsors are funding versx's work</span>
-                            <span>25 sponsors</span>
+                            <span>25 monthly sponsors</span>
                         </div>
                         <div class="row">
                             <img class="avatar " src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAkACQDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAUDBAYHAgj/xAAzEAACAQMCAgUKBwAAAAAAAAABAgMABBEFIRIxBhMUIkEHFUJRYXGRobHBIzJigdHw8f/EABgBAQEAAwAAAAAAAAAAAAAAAAQDAQIF/8QAIBEAAgIDAAEFAAAAAAAAAAAAAAECAwQREjEhIzJBcf/aAAwDAQACEQMRAD8A6q/5wRmq13JO83VWfV9oC8X4h7qrnG+Nzy5VKJAWyOY350ivbjUILy+urG2WaRVSNUdsDA4t/nsPjWLrOI+gmqvuRBeefrWZXEtrcoN3Qjg8eQ8eXjVi1vFv7RZowVLEhkPNWB3B9uf5pZqV9q63EELWCuJEBdonGYyd8HP1rz0Rilhs79JjxHtbuD+k4H2+dRx7m3pm99PK2hq253IoqfgA2opoTRLHNh9z/lKelLK8MKSXLW0crhOsHLiyDgg7Y5+z11V1fpBp+iRF7+4VWO6xr3nb3D77CuYXvTi51zWpo2VY7VlxDbvupA3Ib1k7HPhjb10S9bgxmKu7VBPybHVlTSpo7jzhIAWPdZ1ZnGDjhxjAztjlWyto+z2NvGVKylVLjPpEDPz2rjEd9o9o0jw8TakNo45JOIREj0T/AE/Wtz0U8oWl6ysUGoSLZ36DhIkOEcjbKk7fscHwGedTxUltstmQnD5GzDnFFRFwTlcFTuCKKX0c/R80ajczTvJJNI0jkElmOST7TSdJZEZJFdhIpBDZoorWfgzU/cRfv4kW8SNRhSyPz3yQCd/fVFWPG5Jz3z9aKKnWNzfv9GEGsalaRiK2v7qKMbhUlZR8BRRRVjnH/9k=" width="24" height="24" alt="" />
@@ -2245,7 +2245,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Jan 2023, 11:06:05 (timezone America/Los_Angeles) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 20 Jan 2023, 12:06:42 (timezone America/Los_Angeles) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
