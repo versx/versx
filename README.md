@@ -9,10 +9,10 @@ I'm versx, I like to code.
 
 
 **Languages:**  
-[![My Languages](https://skillicons.dev/icons?i=bash,c,cs,cpp,html,js,nodejs,ts,php,swift&perline=5)](https://skillicons.dev)  
+[![My Languages](https://skillicons.dev/icons?i=bash,cs,c,cpp,html,js,nodejs,ts,php,swift&perline=5)](https://skillicons.dev)  
 
 **Skills:**  
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,cloudflare,discord,bots,docker,dotnet,express,git,github,gitlab,grafana,react&perline=5)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,cloudflare,discord,bots,docker,dotnet,express,git,github,gitlab,grafana,react,mui&perline=5)](https://skillicons.dev)  
 
 **Internet of Things:**  
 [![My Languages](https://skillicons.dev/icons?i=arduino,raspberrypi&perline=10)](https://skillicons.dev)  
