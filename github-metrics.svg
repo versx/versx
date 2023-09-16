@@ -214,20 +214,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 16.5mb of code in 6373 edited files across 1464 commits</small>
+                <small>estimation from 16.9mb of code in 6752 edited files across 1477 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="271.1722864439472" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="271.1722864439472" y="0" width="59.26846481972272" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="330.44075126366994" y="0" width="46.7925965461719" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="377.23334780984186" y="0" width="34.46676025435234" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="411.7001080641942" y="0" width="13.9666967383606" height="8" fill="#724b3b"/>
-                    <rect mask="url(#languages-bar)" x="425.6668048025548" y="0" width="13.20921819644912" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="438.8760229990039" y="0" width="13.149068179383082" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="452.02509117838696" y="0" width="7.974908821613038" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="280.3231618654995" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="280.3231618654995" y="0" width="56.39622574115685" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="336.71938760665637" y="0" width="44.52495683597719" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="381.2443444426336" y="0" width="32.796449136707714" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="414.0407935793413" y="0" width="13.289849577017414" height="8" fill="#724b3b"/>
+                    <rect mask="url(#languages-bar)" x="427.3306431563587" y="0" width="12.569079586202557" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="439.89972274256127" y="0" width="12.511844529564783" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="452.41156727212604" y="0" width="7.588432727873988" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -409,7 +409,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~8.96
+                            Average per day at ~8.97
                         </div>
                     </section>
                 </div>
@@ -1380,10 +1380,10 @@
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.354838709677419 0,2.354838709677419 z"/>
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.354838709677419 1.7,3.354838709677419 z"/>
                             </g>
-                            <g transform="translate(-8.5, 6.548387096774194)">
+                            <g transform="translate(-8.5, 6.451612903225806)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,6.451612903225806 0,5.451612903225806 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,5.451612903225806 1.7,6.451612903225806 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,6.548387096774194 0,5.548387096774194 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,5.548387096774194 1.7,6.548387096774194 z"/>
                             </g>
                         </g>
                     </g>
@@ -1398,6 +1398,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">versx/DiscordGuildStats</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7a1d0cc</div>
+                                        <div class="message">update README.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1466,26 +1486,6 @@
                                         <span class="code">dump-csv</span>
                                         in
                                         <span class="repo">versx/DiscordGuildStats</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">versx/DiscordGuildStats</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6b36e08</div>
-                                        <div class="message">update README.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -1796,7 +1796,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 424k out of 113m repositories</span>
+                                    <span class="gh">ranked 424k out of 61.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 27 times</div>
                             </div>
@@ -2020,7 +2020,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 899k out of 113m repositories</span>
+                                    <span class="gh">ranked 899k out of 61.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 26 stars</div>
                             </div>
@@ -2198,7 +2198,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Sept 2023, 18:26:12 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Sept 2023, 19:09:51 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
