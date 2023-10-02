@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            5919 Commits
+                            5922 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -214,20 +214,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 18.1mb of code in 7768 edited files across 1761 commits</small>
+                <small>estimation from 17.9mb of code in 7609 edited files across 1760 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="268.03700235399236" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="268.03700235399236" y="0" width="63.36322359490713" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="331.40022594889945" y="0" width="40.42773930823554" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="371.827965257135" y="0" width="29.778497053213975" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="401.60646231034895" y="0" width="27.838283303836835" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="429.44474561418576" y="0" width="12.06690836612313" height="8" fill="#724b3b"/>
-                    <rect mask="url(#languages-bar)" x="441.5116539803089" y="0" width="11.518277805460574" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="453.02993178576946" y="0" width="6.970068214230485" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="262.9618668069798" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="262.9618668069798" y="0" width="65.26859404643817" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="328.230460853418" y="0" width="41.198381729406314" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="369.4288425828243" y="0" width="30.34614128612414" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="399.7749838689484" y="0" width="29.087310793927895" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="428.8622946628763" y="0" width="12.296930416290566" height="8" fill="#724b3b"/>
+                    <rect mask="url(#languages-bar)" x="441.1592250791669" y="0" width="11.737841739719682" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="452.8970668188866" y="0" width="7.102933181113405" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1417,6 +1417,34 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">versx/URLminify</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6e4e776</div>
+                                        <div class="message">add device stats to telemetry page</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d78d533</div>
+                                        <div class="message">add notification upon error</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aef03b2</div>
+                                        <div class="message">add telemetry admin page</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">versx/URLminify</span>
                                     </div>
@@ -1486,34 +1514,6 @@
                                     <div class="commit">
                                         <div class="sha">#bf68a35</div>
                                         <div class="message">remove excess space from tables</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">versx/URLminify</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ccd1dba</div>
-                                        <div class="message">fix register page and add error handling</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#83f6f9b</div>
-                                        <div class="message">adjust spacing</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#784b9f7</div>
-                                        <div class="message">margins and borders</div>
                                     </div>
                                 </div>
                             </section>
@@ -1672,7 +1672,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 177k out of 121m users</span>
+                                    <span class="gh">ranked 178k out of 121m users</span>
                                 </div>
                                 <div class="text">Published 97 public repositories</div>
                             </div>
@@ -1824,7 +1824,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 426k out of 60.6m repositories</span>
+                                    <span class="gh">ranked 426k out of 53.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 27 times</div>
                             </div>
@@ -2048,7 +2048,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 904k out of 60.6m repositories</span>
+                                    <span class="gh">ranked 904k out of 53.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 26 stars</div>
                             </div>
@@ -2262,7 +2262,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Oct 2023, 12:06:12 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Oct 2023, 13:06:41 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
