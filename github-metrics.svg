@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3475" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3558" class="">
     <defs>
         <style/>
     </defs>
@@ -214,20 +214,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 18.2mb of code in 7935 edited files across 1798 commits</small>
+                <small>estimation from 18mb of code in 7646 edited files across 1774 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="264.91670520761994" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="264.91670520761994" y="0" width="63.32702356853003" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="328.24372877614996" y="0" width="39.642070377886675" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="367.88579915403665" y="0" width="30.809427412010795" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="398.69522656604744" y="0" width="29.19978450763195" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="427.89501107367937" y="0" width="13.388470063156618" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="441.28348113683603" y="0" width="11.832401189841363" height="8" fill="#724b3b"/>
-                    <rect mask="url(#languages-bar)" x="453.1158823266774" y="0" width="6.8841176733226686" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="260.989547840651" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="260.989547840651" y="0" width="65.31955932140798" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="326.309107162059" y="0" width="40.8893774214676" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="367.1984845835266" y="0" width="31.77882218512368" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="398.97730676865024" y="0" width="30.11853311334885" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="429.09583988199904" y="0" width="12.204698529659346" height="8" fill="#724b3b"/>
+                    <rect mask="url(#languages-bar)" x="441.3005384116584" y="0" width="11.649803241331595" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="452.95034165299" y="0" width="7.049658347009952" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -262,15 +262,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        HTML
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#724b3b" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Mustache
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        HTML
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1433,6 +1433,46 @@
                                 <div class="details">
                                     <div>on branch <span class="code">react</span></div>
                                     <div class="commit">
+                                        <div class="sha">#725258e</div>
+                                        <div class="message">fix issue fetching settings</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a24737a</div>
+                                        <div class="message">use access tokens instead of api keys</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#25ac13e</div>
+                                        <div class="message">add send agent request for reboot command</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#99096df</div>
+                                        <div class="message">add remote agent urls setting</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c76828c</div>
+                                        <div class="message">clickable dashboard items</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ba4bb30</div>
+                                        <div class="message">update README</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 6 commits in
+                                        <span class="repo">versx/DeviceConfigManager</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">react</span></div>
+                                    <div class="commit">
                                         <div class="sha">#7eb8399</div>
                                         <div class="message">fix styling</div>
                                     </div>
@@ -1615,26 +1655,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">versx/DeviceConfigManager</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">react</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#eaf2f16</div>
-                                        <div class="message">fix device dropdown</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1789,7 +1809,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 178k out of 121m users</span>
+                                    <span class="gh">ranked 178k out of 120m users</span>
                                 </div>
                                 <div class="text">Published 97 public repositories</div>
                             </div>
@@ -1941,7 +1961,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 427k out of 58.5m repositories</span>
+                                    <span class="gh">ranked 427k out of 44m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 27 times</div>
                             </div>
@@ -2026,7 +2046,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 341k out of 121m users</span>
+                                    <span class="gh">ranked 341k out of 120m users</span>
                                 </div>
                                 <div class="text">Followed by 35 users</div>
                             </div>
@@ -2165,7 +2185,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 906k out of 58.5m repositories</span>
+                                    <span class="gh">ranked 907k out of 44m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 26 stars</div>
                             </div>
@@ -2379,7 +2399,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Oct 2023, 00:06:35 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Oct 2023, 01:07:25 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
