@@ -214,20 +214,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 32.6mb of code in 9902 edited files across 2179 commits</small>
+                <small>estimation from 32.6mb of code in 9832 edited files across 2174 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="308.5424248932436" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="308.5424248932436" y="0" width="48.48282449517669" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="357.0252493884203" y="0" width="30.361546295275115" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="387.3867956836955" y="0" width="23.58752990177963" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="410.9743255854751" y="0" width="22.355196056996068" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="433.3295216424712" y="0" width="12.341213407606483" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="445.67073505007767" y="0" width="9.05882193599068" height="8" fill="#724b3b"/>
-                    <rect mask="url(#languages-bar)" x="454.72955698606836" y="0" width="5.270443013931698" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="308.34038797881294" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="308.34038797881294" y="0" width="48.635908315326716" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="356.9762962941397" y="0" width="30.45741244047062" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="387.43370873461026" y="0" width="23.662007187764203" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="411.09571592237444" y="0" width="22.425782266612384" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="433.5214981889868" y="0" width="12.10399241336486" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="445.6254906023517" y="0" width="9.087425035798908" height="8" fill="#724b3b"/>
+                    <rect mask="url(#languages-bar)" x="454.7129156381506" y="0" width="5.28708436184937" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1790,7 +1790,7 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 449k out of 171m repositories</span>
+                                    <span class="gh">ranked 449k out of 175m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 26 times</div>
                             </div>
@@ -2014,7 +2014,7 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 915k out of 171m repositories</span>
+                                    <span class="gh">ranked 915k out of 175m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 26 stars</div>
                             </div>
@@ -2228,7 +2228,7 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Nov 2023, 18:28:09 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Nov 2023, 19:13:12 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
