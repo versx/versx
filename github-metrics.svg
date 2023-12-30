@@ -214,7 +214,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 32.7mb of code in 9933 edited files across 2182 commits</small>
+                <small>estimation from 32.7mb of code in 9936 edited files across 2184 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -1562,7 +1562,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 177k out of 126m users</span>
+                                    <span class="gh">ranked 177k out of 127m users</span>
                                 </div>
                                 <div class="text">Published 99 public repositories</div>
                             </div>
@@ -1714,7 +1714,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 456k out of 65.2m repositories</span>
+                                    <span class="gh">ranked 456k out of 57.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 26 times</div>
                             </div>
@@ -1799,7 +1799,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 321k out of 126m users</span>
+                                    <span class="gh">ranked 321k out of 127m users</span>
                                 </div>
                                 <div class="text">Followed by 38 users</div>
                             </div>
@@ -1938,7 +1938,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 889k out of 65.2m repositories</span>
+                                    <span class="gh">ranked 935k out of 57.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 26 stars</div>
                             </div>
@@ -2152,7 +2152,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Dec 2023, 06:06:27 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Dec 2023, 07:06:13 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
