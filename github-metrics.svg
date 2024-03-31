@@ -214,20 +214,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 9.88mb of code in 4918 edited files across 1236 commits</small>
+                <small>estimation from 9.88mb of code in 4921 edited files across 1237 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="115.35571564810225" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="115.35571564810225" y="0" width="111.16796227898645" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="226.5236779270887" y="0" width="81.31926705176956" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="307.84294497885827" y="0" width="61.02157016540782" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="368.8645151442661" y="0" width="44.45966200135066" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="413.3241771456167" y="0" width="18.016042461793813" height="8" fill="#724b3b"/>
-                    <rect mask="url(#languages-bar)" x="431.3402196074106" y="0" width="17.7899126303442" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="449.13013223775476" y="0" width="10.869867762245253" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="115.09901520719235" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="115.09901520719235" y="0" width="111.94421629798661" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="227.04323150517894" y="0" width="81.13830773311439" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="308.18153923829334" y="0" width="60.88577920023139" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="369.06731843852475" y="0" width="44.36072615951282" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="413.42804459803756" y="0" width="17.97595146138338" height="8" fill="#724b3b"/>
+                    <rect mask="url(#languages-bar)" x="431.403996059421" y="0" width="17.750324835406595" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="449.15432089482755" y="0" width="10.845679105172442" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1761,7 +1761,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 466k out of 106m repositories</span>
+                                    <span class="gh">ranked 466k out of 108m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 26 times</div>
                             </div>
@@ -1985,7 +1985,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 998k out of 106m repositories</span>
+                                    <span class="gh">ranked 998k out of 108m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 25 stars</div>
                             </div>
@@ -2197,7 +2197,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 31 Mar 2024, 12:06:17 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Mar 2024, 13:07:07 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
