@@ -214,20 +214,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 9.88mb of code in 4938 edited files across 1244 commits</small>
+                <small>estimation from 7.59mb of code in 4622 edited files across 1199 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="115.23813001816985" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="115.23813001816985" y="0" width="111.05464535490137" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="226.2927753730712" y="0" width="81.23637582103858" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="307.52915119410983" y="0" width="61.27913517697018" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="368.80828637108" y="0" width="44.414342900050485" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="413.2226292711305" y="0" width="17.997678155440575" height="8" fill="#724b3b"/>
-                    <rect mask="url(#languages-bar)" x="431.2203074265711" y="0" width="17.888928184271425" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="449.1092356108425" y="0" width="10.89076438915755" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="132.00126227878013" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="132.00126227878013" y="0" width="105.43407345435064" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="237.43533573313078" y="0" width="93.0534376914976" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="330.48877342462833" y="0" width="70.19311397570114" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="400.68188740032946" y="0" width="20.615713169163705" height="8" fill="#724b3b"/>
+                    <rect mask="url(#languages-bar)" x="421.29760056949317" y="0" width="20.4911438667562" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="441.7887444362494" y="0" width="10.745368280842351" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="452.5341127170917" y="0" width="7.4658872829082314" height="8" fill="#4F5D95"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -256,12 +256,6 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Handlebars
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#724b3b" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Mustache
@@ -274,9 +268,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        CSS
+                        Handlebars
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#4F5D95" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        PHP
                     </div>
                 </div>
                 <div class="row footnote warning">
@@ -1826,7 +1826,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 466k out of 115m repositories</span>
+                                    <span class="gh">ranked 466k out of 96.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 26 times</div>
                             </div>
@@ -2050,7 +2050,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 998k out of 115m repositories</span>
+                                    <span class="gh">ranked 998k out of 96.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 25 stars</div>
                             </div>
@@ -2262,7 +2262,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Apr 2024, 21:07:16 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Apr 2024, 22:06:22 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
