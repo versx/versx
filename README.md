@@ -4,7 +4,7 @@ I'm versx, I like to code.
 
 ![Metrics](https://raw.githubusercontent.com/versx/versx/main/github-metrics.svg)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=versx&theme=dark)](https://git.io/streak-stats)  
 [![versx's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=versx&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 
 
