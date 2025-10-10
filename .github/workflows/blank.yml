@@ -78,7 +78,7 @@ jobs:
           plugin_sponsors: yes
           plugin_sponsors_past: yes
           plugin_sponsors_sections: goal, list
-          plugin_sponsors_size: 0
+          plugin_sponsors_size: 16
           plugin_sponsors_title: Sponsor Me!
           plugin_traffic: yes
           repositories_forks: yes
