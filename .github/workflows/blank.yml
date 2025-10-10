@@ -69,13 +69,16 @@ jobs:
           plugin_notable_from: all
           plugin_notable_repositories: yes
           plugin_notable_self: yes
+          plugin_notable_skipped: versx
           plugin_notable_types: commit
           plugin_repositories: yes
           plugin_repositories_order: featured, pinned, starred, random
+          plugin_repositories_pinned: 1
+          plugin_repositories_starred: 1
           plugin_sponsors: yes
           plugin_sponsors_past: yes
           plugin_sponsors_sections: goal, list
-          plugin_sponsors_size: 24
+          plugin_sponsors_size: 0
           plugin_sponsors_title: Sponsor Me!
           plugin_traffic: yes
           repositories_forks: yes
