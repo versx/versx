@@ -214,28 +214,22 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 10.2mb of code in 2826 edited files across 664 commits</small>
+                <small>estimation from 6.82mb of code in 2072 edited files across 537 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="169.4264700141829" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="169.4264700141829" y="0" width="97.00604563257127" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="266.43251564675415" y="0" width="78.52614732020871" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="344.95866296696283" y="0" width="56.37641829206407" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="401.33508125902694" y="0" width="22.373996460775768" height="8" fill="#724b3b"/>
-                    <rect mask="url(#languages-bar)" x="423.7090777198027" y="0" width="22.163383342224765" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="445.87246106202747" y="0" width="13.551626156428506" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="459.42408721845595" y="0" width="0.5759127815439866" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="141.90466786622451" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="141.90466786622451" y="0" width="118.33574731958304" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="260.24041518580754" y="0" width="114.87146787217273" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="375.11188305798026" y="0" width="32.729656341546836" height="8" fill="#724b3b"/>
+                    <rect mask="url(#languages-bar)" x="407.8415393995271" y="0" width="32.42156230017696" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="440.26310169970407" y="0" width="17.418531681710707" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="457.68163338141477" y="0" width="1.4758963225125286" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="459.1575297039273" y="0" width="0.8424702960726872" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#178600" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        C#
-                    </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
@@ -244,15 +238,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#178600" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        JavaScript
+                        C#
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        Handlebars
+                        JavaScript
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -265,6 +259,12 @@
                             <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         HTML
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Handlebars
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1446,7 +1446,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Apr 2026, 07:15:03 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Apr 2026, 08:13:39 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
