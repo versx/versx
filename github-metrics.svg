@@ -214,28 +214,22 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 9.59mb of code in 2767 edited files across 644 commits</small>
+                <small>estimation from 6.86mb of code in 2096 edited files across 538 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="164.21882951653944" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="164.21882951653944" y="0" width="97.12634300254453" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="261.345172519084" y="0" width="78.62352773536895" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="339.968700254453" y="0" width="56.44633078880407" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="396.41503104325704" y="0" width="22.40174249363868" height="8" fill="#724b3b"/>
-                    <rect mask="url(#languages-bar)" x="418.8167735368957" y="0" width="22.190868193384222" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="441.00764173027994" y="0" width="13.568431552162851" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="454.57607328244274" y="0" width="5.423926717557252" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="139.75306052869908" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="139.75306052869908" y="0" width="116.54150005447968" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="256.2945605831788" y="0" width="113.12974720249693" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="369.4243077856757" y="0" width="32.23339804505763" height="8" fill="#724b3b"/>
+                    <rect mask="url(#languages-bar)" x="401.65770583073333" y="0" width="31.92997543141475" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="433.58768126214807" y="0" width="17.154425918744412" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="450.7421071808925" y="0" width="7.8043745438057766" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="458.54648172469825" y="0" width="1.453518275301718" height="8" fill="#663399"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#178600" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        C#
-                    </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
@@ -244,15 +238,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#178600" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        JavaScript
+                        C#
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        Handlebars
+                        JavaScript
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -268,15 +262,21 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        CSS
+                        Handlebars
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         TypeScript
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        CSS
                     </div>
                 </div>
                 <div class="row footnote warning">
@@ -1469,7 +1469,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Jul 2026, 15:46:18 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Jul 2026, 16:51:18 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
